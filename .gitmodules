@@ -1,12 +1,12 @@
 [submodule "ad-gateway"]
 	path = ad-gateway
-	url = git@github.com-ad:ad-zhangyue/ad-gateway.git
+	url = git@github.com:ad-zhangyue/ad-gateway.git
 [submodule "ad-deployment"]
 	path = ad-deployment
-	url = git@github.com-ad:ad-zhangyue/ad-deployment.git
+	url = git@github.com:ad-zhangyue/ad-deployment.git
 [submodule "ad-db"]
 	path = ad-db
-	url = git@github.com-ad:ad-zhangyue/ad-db.git
+	url = git@github.com:ad-zhangyue/ad-db.git
 [submodule "ad-core"]
 	path = ad-core
-	url = git@github.com-ad:ad-zhangyue/ad-core.git
+	url = git@github.com:ad-zhangyue/ad-core.git
