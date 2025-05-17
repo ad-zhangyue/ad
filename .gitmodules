@@ -10,3 +10,6 @@
 [submodule "ad-core"]
 	path = ad-core
 	url = git@github.com:ad-zhangyue/ad-core.git
+[submodule "ad-wp"]
+	path = ad-wp
+	url = git@github.com:ad-zhangyue/ad-wp.git
