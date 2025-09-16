@@ -63,6 +63,9 @@ get_action_description() {
             "sync")
                 echo "Sync changes by performing git add, commit, and push"
                 ;;
+            "list")
+                echo "List information about modules and services"
+                ;;
             *)
                 echo "Available action (run 'ad $action --help' for details)"
                 ;;
