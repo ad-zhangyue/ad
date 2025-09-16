@@ -60,6 +60,9 @@ get_action_description() {
             "pull")
                 echo "Pull latest code from GitHub for specified modules"
                 ;;
+            "sync")
+                echo "Sync changes by performing git add, commit, and push"
+                ;;
             *)
                 echo "Available action (run 'ad $action --help' for details)"
                 ;;
